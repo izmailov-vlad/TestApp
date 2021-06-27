@@ -8,7 +8,6 @@
         android:id="@+id/movie_photo"
         android:layout_height="100dp"
         android:layout_width="150dp"
-        android:src="@drawable/load"
         android:layout_margin="20dp"/>
 
     <LinearLayout

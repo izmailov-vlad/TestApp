@@ -1,8 +1,11 @@
-package com.example.testapplication
+package com.example.testapplication.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProviders
+import com.example.testapplication.MovieApp
+import com.example.testapplication.MovieListViewModel
+import com.example.testapplication.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 

@@ -2,6 +2,7 @@ package com.example.testapplication
 
 import android.app.Application
 import android.util.Log
+import com.example.testapplication.network.MovieApi
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

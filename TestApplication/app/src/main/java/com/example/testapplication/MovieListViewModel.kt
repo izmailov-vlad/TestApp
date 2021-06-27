@@ -6,6 +6,8 @@ import android.content.Context
 import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.recyclerview.widget.RecyclerView
+import com.example.testapplication.adapters.MoviesAdapter
+import com.example.testapplication.network.MovieApi
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers

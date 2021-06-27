@@ -1,4 +1,4 @@
-package com.example.testapplication
+package com.example.testapplication.network
 
 import io.reactivex.Single
 import retrofit2.http.GET
